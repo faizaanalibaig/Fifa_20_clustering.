@@ -17,7 +17,7 @@ Task 3: Answering Key Questions
 
 This is a High Level Design of this project, in the ipynb file everything is present like after every plot I have written significant Insights about the players and their attributes.
 it is just an in-depth overview and description of the project.
-
+<br>
 Insights from Data Analysis:
 
 Age: The majority of players are between 20 and 25 years old, with a decline in numbers after 35.
