@@ -15,6 +15,8 @@ Task 3: Answering Key Questions
   2. Performance vs. Age: We analyzed the relationship between a player's age and their overall performance. Our goal is to identify the age at which a player typically stops improving.
   3. Highest-Paid Offensive Players: We investigate which type of offensive players, including strikers, right-wingers, and left-wingers, tend to receive the highest average pay based on their team position.
 
+This is a High Level Design of this project, in the ipynb file everything is present like after every plot I have written significant Insights about the players and their attributes.
+it is just an in-depth overview and description of the project.
 Insights from Data Analysis:
 
 Age: The majority of players are between 20 and 25 years old, with a decline in numbers after 35.
@@ -25,9 +27,11 @@ Potential: Player potential is distributed between 65 and 80, with a few players
 
 Clustering:
 - We performed clustering to group players based on their skill sets, revealing distinctive clusters representing various skill levels.
+- First I Clustered the players on the basis of their attributes and performance. After visualizing the clusters I realized that there were plenty of players like average performers, weak performers, strong performers, and top players. The dataset contains more than 1800 records which means I need to proceed with those many players, Then I did this.
 -	To refine our focus and extract insights about players with exceptional abilities, a filtering process was implemented. Specifically,
 -	the dataset was filtered to include only those players whose overall performance score falls below the 75th percentile.
 -	This strategic filtering allowed us to concentrate solely on players who demonstrate a high degree of skill and proficiency
+
   
 Insights from Pair Plots:
 - Players with overall performance above 80 tend to command higher wages and possess greater market value.
