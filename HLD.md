@@ -43,7 +43,7 @@ Challenges Faced:
 6. Data Visualization: Understanding and interpreting complex scatterplots with over 18,000 data points posed a challenge.
 7. Task Complexity: Task 3 involved addressing tricky questions, especially regarding offensive player salaries, where three types of strikers were considered.
    
-Conclusion:
+**Conclusion:**
 
 In this FIFA player analysis, we explored a wide range of player attributes and characteristics. Key findings revealed the typical age range of football players,
 the relationship between performance and age, and insights into offensive player salaries. Challenges included managing a vast dataset and interpreting complex visualizations.
