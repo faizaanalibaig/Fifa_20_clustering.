@@ -18,8 +18,9 @@ Task 3: Answering Key Questions
 This is a High Level Design of this project, in the ipynb file everything is present like after every plot I have written significant Insights about the players and their attributes.
 it is just an in-depth overview and description of the project.
 <br>
+<br>
 Insights from Data Analysis:
-
+<br>
 Age: The majority of players are between 20 and 25 years old, with a decline in numbers after 35.
 Height: Most players' heights fall within the range of 170 to 190 centimeters.
 Weight: Player weights are primarily distributed between 65 to 85 kilograms, with the highest concentration at 70 kilograms.
