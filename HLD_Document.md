@@ -55,7 +55,7 @@ In this FIFA player analysis, we explored a wide range of player attributes and 
 the relationship between performance and age, and insights into offensive player salaries. Challenges included managing a vast dataset and interpreting complex visualizations.
 This project underscores the power of data analysis in understanding the world of sports and making data-driven decisions in the football industry.
 <br>
-**Note:** Detailed technical specifications, algorithms, and code implementation details are typically provided in separate documents or sections of the project repository.
+**Note:** Detailed technical specifications, algorithms, and code implementation details are typically provided in a separate ipynb file section of the project repository.
 
 
 
